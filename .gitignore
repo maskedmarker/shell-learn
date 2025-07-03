@@ -1,3 +1,4 @@
+### javaIgnore template
 # Compiled class file
 *.class
 
@@ -16,3 +17,6 @@ target/
 # Gradle
 build
 .gradle
+
+#logs
+logs/
